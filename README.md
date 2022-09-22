@@ -1,6 +1,6 @@
 # Capgemini
 
-![preview](./assets/proway.png)
+![preview](./.github/proway.png)
 
 >Angular
 
