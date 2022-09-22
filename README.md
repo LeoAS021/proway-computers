@@ -1,7 +1,5 @@
 # Capgemini
 
-![preview](./.github/proway.png)
-
 >Angular
 
 Projeto construído no curso de Angular da Capgemini.
